@@ -197,7 +197,7 @@ li {
     font-family: 'Oswald', sans-serif;
     position: relative;
 }
-#hero-section .background-image .overlay-text h3::after{
+/* #hero-section .background-image .overlay-text h3::after{
     position: absolute;
     content: '';
     left: -30px;
@@ -218,7 +218,7 @@ li {
     width: 180px;
     height: 3px;
     clip-path: polygon(0 0, 100% 0, 100% 100%, 5% 100%);
-}
+} */
 #hero-section .background-image .overlay-text h1{
     color:#e23e38;
     font-size: 6rem;
@@ -227,7 +227,7 @@ li {
     text-transform: uppercase;
     position: relative;
 }
-#hero-section .background-image .overlay-text h1::after {
+/* #hero-section .background-image .overlay-text h1::after {
     position: absolute;
     content: '';
     right: -30px;
@@ -244,7 +244,7 @@ li {
     background: #e23e38;
     width: 3px;
     height: 180px;
-}
+} */
 #hero-section .background-image .overlay-text p{
     color:#ffffff;
     font-size: 1.4rem;
@@ -253,7 +253,7 @@ li {
     text-transform: uppercase;
     position: relative;
 }
-#hero-section .background-image .overlay-text p::after {
+/* #hero-section .background-image .overlay-text p::after {
     position: absolute;
     content: '';
     left: -30px;
@@ -270,7 +270,7 @@ li {
     background: #e23e38;
     width: 122px;
     height: 3px;
-}
+} */
 #hero-section .background-image .overlay-text a{
     padding: 1rem 2rem;
     background:#e23e38;
@@ -627,7 +627,7 @@ li {
     flex-wrap: wrap;
 }
 .our-body ul li{
-    width: 19.29%;
+    width: 19.20%;
     padding: 50px 0px;
     background: #f1f1f1;
     margin: 0px 5px 5px;
