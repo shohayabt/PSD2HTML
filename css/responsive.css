@@ -279,6 +279,9 @@
     #team-card-container .draggable{
         padding: 10px 0px 10px;
     }
+    #team-card-container .card-a{
+        padding: 0px 0px 10px 0px ;
+    }
     #team-card-container .card-a .profile-image .team-overlay{
         transform: scale(1);
     }
