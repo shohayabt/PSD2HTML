@@ -332,6 +332,9 @@
     .our-body ul li p {
         font-size: 12px;
     }
+    .our-body ul{
+        padding: 0px 0px 10px;
+    }
     .our-body ul li i {
         font-size: 40px;
     }
