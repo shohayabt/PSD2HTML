@@ -776,3 +776,364 @@ li {
 }
 /* ============================================= FOOTER SECTION END ===================================================  */
 
+
+@media (max-width: 1400px) {  }
+
+@media (max-width: 1200.98px) { 
+    .our-body ul li {
+        width: 19.1%;
+    }
+ }
+
+@media (max-width: 992px) { 
+    .main_menu{
+        top:0;
+        background: #e23e38;
+    }
+    .main_menu .container .navbar-brand{
+        width: 185px;
+        height: 50px;
+        background: #323232;
+    }
+    .main_menu .container .navbar-brand img{
+        width: 100px;
+    }
+    .main_menu .container button span{
+        background: rgb(255, 255, 255);
+        height: 3px;
+        display: block;
+        margin: 2px 0px;
+    }
+    .main_menu .container .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+    .main_menu .container .nav-bar-row{
+        background: transparent;
+        width: 100%;
+        text-align: center;
+    }
+    .main_menu .container .nav-bar-row ul li{
+        border-bottom: 1px solid white;
+        background: #e23e38;
+    }
+    .main_menu .container .nav-bar-row ul li:last-child{
+        border: none;
+    }
+    .main_menu .container ul li a{
+        line-height: 3rem;
+        padding:5px 0;
+        font-size: 1.0rem;
+    }
+    .main_menu .container ul li a::after{
+        display: none;
+    }
+    .main_menu .container .navbar-brand {
+        margin-left: 17px;
+    }
+    .main_menu .container ul li a {
+        line-height: 4rem;
+    }
+    #hero-section .background-image .overlay-text h3::after,#hero-section .background-image .overlay-text h3::before,#hero-section .background-image .overlay-text h1::after,#hero-section .background-image .overlay-text h1::before,#hero-section .background-image .overlay-text p::after,#hero-section .background-image .overlay-text p::before{
+        display: none;
+    }
+    #hero-section .background-image-1,#hero-section .background-image-2,#hero-section .background-image-3{
+        padding:160px 0px 80px;
+    }
+    #team-card-container .card-a {
+        padding: 0px;
+        margin: 0px 10px;
+    }
+    #team-card-container .draggable{
+        padding: 60px 0px 10px;
+    }
+    .our-body ul li {
+        width: 23.78%;
+        padding: 50px 0px;
+        background: #f1f1f1;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+    .our-body ul li:nth-child(5){
+        margin: 0;
+        margin-right: 10px;
+        margin-bottom: 5px;
+        }
+    .our-body ul li:nth-child(9){
+            margin: 0;
+            margin-right: 5px;
+            margin-bottom: 5px;
+        }
+    .our-body ul li:nth-child(4),
+    .our-body ul li:nth-child(8){
+    margin-right: 0;
+    }
+    .our-body ul{
+        padding: 0px 0px 20px;
+    }
+ }
+
+@media (max-width: 768px) { 
+    .main_menu{
+        top:0;
+        background: #e23e38;
+    }
+    .main_menu .container .navbar-brand{
+        width: 185px;
+        height: 50px;
+        background: #323232;
+    }
+    .main_menu .container .navbar-brand img{
+        width: 100px;
+    }
+    .main_menu .container button span{
+        background: rgb(255, 255, 255);
+        height: 3px;
+        display: block;
+        margin: 2px 0px;
+    }
+    .main_menu .container .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+    .main_menu .container .nav-bar-row{
+        background: transparent;
+        width: 100%;
+        text-align: center;
+    }
+    .main_menu .container .nav-bar-row ul li{
+        border-bottom: 1px solid white;
+        background: #e23e38;
+    }
+    .main_menu .container .nav-bar-row ul li:last-child{
+        border: none;
+    }
+    .main_menu .container ul li a{
+        line-height: 3rem;
+        padding:5px 0;
+        font-size: 1.0rem;
+    }
+    .main_menu .container ul li a::after{
+        display: none;
+    }
+    .main_menu .container .navbar-brand {
+        margin-left: 17px;
+    }
+    .main_menu .container ul li a {
+        line-height: 4rem;
+    }
+    #hero-section .background-image .overlay-text h3::after,#hero-section .background-image .overlay-text h3::before,#hero-section .background-image .overlay-text h1::after,#hero-section .background-image .overlay-text h1::before,#hero-section .background-image .overlay-text p::after,#hero-section .background-image .overlay-text p::before{
+        display: none;
+    }
+    #hero-section .background-image-1,#hero-section .background-image-2,#hero-section .background-image-3{
+        padding:150px 0px 80px;
+    }
+    #team-card-container .card-a {
+        padding: 0px;
+        margin: 0px 10px;
+    }
+    #team-card-container .card-a .profile-image .team-overlay{
+        transform: scale(1);
+    }
+    #team-card-container .card-a{
+        border-bottom:2px solid rgba(0, 0, 0, 0.253);
+        padding: 0px 0px 10px 0px ;
+    }
+    #team-card-container .card-a:hover{
+        transform:translateY(0);
+    }
+    #team-card-container .card-a .member-information p{
+        transform: scale(1);
+    }
+    .our-body ul{
+        padding: 0px 0px 20px;
+    }
+    .our-body ul li {
+        width: 32.39%;
+        padding: 29px 0px;
+        background: #f1f1f1;
+        margin: 0px;
+        margin-right: 5px;
+        margin-bottom: 5px;
+    }
+    .our-body ul li:nth-child(5){
+        margin-right: 5px;
+        }
+    .our-body ul li:nth-child(3),
+    .our-body ul li:nth-child(6),
+    .our-body ul li:nth-child(9){
+    margin-right: 0;
+    }
+    #logo-slider .draggable{
+        padding: 30px 0px;
+    }
+ }
+
+@media (max-width: 576.98px) { 
+    .main_menu{
+        top:0;
+        background: #e23e38;
+    }
+    .main_menu .container .navbar-brand{
+        width: 185px;
+        height: 50px;
+        background: #323232;
+    }
+    .main_menu .container .navbar-brand img{
+        width: 100px;
+    }
+    .main_menu .container button span{
+        background: rgb(255, 255, 255);
+        height: 3px;
+        display: block;
+        margin: 2px 0px;
+    }
+    .main_menu .container .navbar-toggler:focus {
+        box-shadow: 0 0 0 0;
+    }
+    .main_menu .container .nav-bar-row{
+        background: transparent;
+        width: 100%;
+        text-align: center;
+    }
+    .main_menu .container .nav-bar-row ul li{
+        border-bottom: 1px solid white;
+        background: #e23e38;
+    }
+    .main_menu .container .nav-bar-row ul li:last-child{
+        border: none;
+    }
+    .main_menu .container ul li a{
+        line-height: 3rem;
+        padding:5px 0;
+        font-size: 1.0rem;
+    }
+    .main_menu .container ul li a::after{
+        display: none;
+    }
+    /*========================= BANNER SECTION START FROM HERE  ============================================*/
+    #hero-section .background-image-1,#hero-section .background-image-2,#hero-section .background-image-3{
+        padding:100px 0px 60px;
+    }
+    #hero-section .background-image .overlay-text h3::after,#hero-section .background-image .overlay-text h3::before,#hero-section .background-image .overlay-text h1::after,#hero-section .background-image .overlay-text h1::before,#hero-section .background-image .overlay-text p::after,#hero-section .background-image .overlay-text p::before{
+        display: none;
+    }
+    #hero-section .background-image .overlay-text h3{
+        font-size: 25px;
+    }
+    #hero-section .background-image .overlay-text h1{
+        font-size: 50px;
+    }
+    #hero-section .background-image .overlay-text p{
+        font-size: 14px;
+    }
+    #hero-section .background-image .overlay-text a{
+        padding: 8px 16px;
+        font-size: 14px;
+        margin-top: 16px;
+        border: 1px solid #e23e38;
+    }
+    #hero-section .background-image .overlay-text a:last-child{
+        padding: 8px 16px;
+        font-size: 14px;
+        margin-top: 16px;
+        border: 1px solid #ffffff;
+    }
+    .slick-dots li button{
+        width: 10px;
+        height: 10px;
+        margin: 6px;
+    }
+    /* ============= ABOUT SECTION START FROM HERE =================== */
+    .about-text p{
+        text-align: justify;
+    }
+    /* ============= OUR TEAM SECTION START FROM HERE =================== */
+    #team-card-container{
+        padding: 30px;
+    }
+    #team-card-container .card-a {
+        padding: 0px;
+        margin: 10px 10px;
+    }
+    #team-card-container .draggable{
+        padding: 10px 0px 10px;
+    }
+    #team-card-container .card-a{
+        padding: 0px 0px 10px 0px ;
+    }
+    #team-card-container .card-a .profile-image .team-overlay{
+        transform: scale(1);
+    }
+    #team-card-container .card-a .member-information p{
+        transform: scale(1);
+    }
+    /* MEMBERSHIP SECTION START */
+    #membership .container .card-container .membership-card h3 {
+        font-size: 14px;
+    }
+    #membership .container .row .membership-card .price {
+        font-size: 12px;
+    }
+    #membership .container .row .membership-card a {
+        font-size: 12px;
+    }
+    #membership .container .row .membership-card ul li{
+        font-size: 12px;
+    }
+    /* MEMBERSHIP SECTION END  */
+    /* REVIEW SECTION START  */
+    #review .container div h3 {
+        font-size: 22px;
+    }
+    #review .container div p {
+        font-size: 12px;
+    }
+    /* REVIEW SEVTION END  */
+    /* OUR CLASS SECTION START */
+    .our-body ul li {
+        width: 48%;
+        padding: 20px 0px;
+    }
+    .our-body ul li{
+        margin: 0;
+        margin-bottom: 10px;
+    }
+    #class-menu ul li button {
+        line-height: 30px;
+    }
+    #class-menu ul li {
+        width: 25%;
+        height: 30px;
+        background: #f1f1f1;
+        font-size: 12px;
+        font-weight: 300;
+        font-family: 'Oswald', sans-serif;
+        line-height: 30px;
+        border-bottom: 1px solid #e23e38;
+    }
+    .our-body ul li:nth-child(odd){
+        margin-right: 10px;
+    }
+    .our-body ul li p {
+        font-size: 12px;
+    }
+    .our-body ul{
+        padding: 0px 0px 10px;
+    }
+    .our-body ul li i {
+        font-size: 40px;
+    }
+    /* OUR CLASS SECTION END */
+    /* LOGO SECTION START  */
+    #logo-a ul li a img {
+        width: 100px;
+    }
+    /* LOGO SECTION END  */
+    .footer-title {
+        padding: 10px 5px;
+    }
+    .footer-image ul li:nth-child(4),
+    .footer-image ul li:nth-child(8),
+    .footer-image ul li:nth-child(12){
+    margin-right: 5px;
+}
+}
